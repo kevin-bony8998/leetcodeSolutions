@@ -1,0 +1,1 @@
+The solution that we got tops off at 82% better than the competition. The top solution has been included in the other folder
