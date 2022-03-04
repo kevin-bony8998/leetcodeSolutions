@@ -9,4 +9,4 @@ Conceptually important questions:
 | Sl. No. | Problem               | Topics Discussed                          |
 |---------|-----------------------|-------------------------------------------|
 | 1.      | Design HashMap (#706) | Hashing, Collisions, Collision Resolution |
-
+| 2.      | Rotate Image (#48)    | Matrix Operations, Transposing, Mirroring |
