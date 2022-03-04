@@ -1,0 +1,1 @@
+The code that was written by us initially and the one in the recommended solution looks more or less the same. The key difference lies in that our code used the "sorted" function whereas the recommended code used the "sort" function. On experimenting by changing the function used, our code showed much better run times as well. Therefore, use the sort function wherever possible. 
