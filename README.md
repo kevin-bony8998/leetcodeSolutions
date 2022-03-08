@@ -7,9 +7,10 @@ Python specific notes:
 
 Conceptually important questions: 
 
-| Sl. No. | Problem                   | Topics Discussed                                          |
-|---------|---------------------------|-----------------------------------------------------------|
-| 1.      | Design HashMap (#706)     | Hashing, Collisions, Collision Resolution                 |
-| 2.      | Rotate Image (#48)        | Matrix Operations, Transposing, Mirroring                 |
-| 3.      | Search a 2D Matrix (#240) | Efficient Binary Searching, Efficient Matrix Traversals   |
-| 4.      | Sprial Matrix (#59)       | Spiral matrix traversal, zip function, list comprehension |
+| Sl. No. | Problem                          | Topics Discussed                                          |
+|---------|----------------------------------|-----------------------------------------------------------|
+| 1.      | Design HashMap (#706)            | Hashing, Collisions, Collision Resolution                 |
+| 2.      | Rotate Image (#48)               | Matrix Operations, Transposing, Mirroring                 |
+| 3.      | Search a 2D Matrix (#240)        | Efficient Binary Searching, Efficient Matrix Traversals   |
+| 4.      | Sprial Matrix (#59)              | Spiral matrix traversal, zip function, list comprehension |
+| 5.      | Non-overlapping Intervals (#435) | Greedy algorithm, custom key sorting                      |
