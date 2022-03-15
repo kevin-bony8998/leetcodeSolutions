@@ -16,3 +16,4 @@ Conceptually important questions:
 | 5.      | Non-overlapping Intervals (#435)    | Greedy algorithm, custom key sorting                      |
 | 6.      | Product Of Array Except Self (#238) | O(1) Space Complexity, build-up-and-execute code approach |
 | 7.      | Increasing Triplet Sequence (#334)  | Greedy algorithm, template solution                       |
+| 8.      | Reverse Nodes in K Group (#25)      | Iterative Linked List Reversal, O(1) Space Complexity     |
